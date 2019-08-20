@@ -1,4 +1,4 @@
-# grafana-npm-gi-image
+# grafana-npm-go-image
 Dockerfile to build grafana image
 
 
